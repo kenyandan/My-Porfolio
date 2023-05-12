@@ -1,2 +1,2 @@
-#THIS IS MY PERSONAL PORTFOLIO
+#MyPortfolio
 welcome to my porfolio!
